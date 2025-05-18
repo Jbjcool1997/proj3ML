@@ -24,7 +24,6 @@ In the provided data 13 datapoints (columns) which can help identify pattern rel
 Point 13, DEATH_EVENT will the column to analyzed. 
 
 ## Project Set Up and Installation
-*OPTIONAL:* IfTput it. To turn this project into a professional portfolio project, you are encouraged to explain how to set up this project in AzureML.
 
 ## Dataset
 
