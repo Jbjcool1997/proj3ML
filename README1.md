@@ -29,9 +29,6 @@ Point 13, DEATH_EVENT will the column to analyzed.
 
 The data has manually downloaded from "https://www.kaggle.com/datasets/andrewmvd/heart-failure-clinical-data" and uploaded to AzureML datasets.
 
-### Overview
-*TODO*: Explain about the data you are using and where you got it from.
-
 ### Task
 *TODO*: Explain the task you are going to be solving with this dataset and the features you will be using for it.
 
