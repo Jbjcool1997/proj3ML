@@ -33,7 +33,7 @@ def main():
 
     # TODO: Create TabularDataset using TabularDatasetFactory
     # Data is located at:
-    ds = pd.read_csv('proj3data')
+    ds = pd.read_csv('proj3data.csv')
 
     
     x, y = clean_data(ds)
