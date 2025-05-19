@@ -56,6 +56,18 @@ Simple the default setting making sure data huardrails and featurazation steps a
 
 ### Results
 
+The outcome of the AutoML approach resulted in the best model being VotingEnsemble model with an accuracy of 0.879.
+The result was achived by comgining 6 ensemble details, all with the same weight at 0.1666:
+
+SparseNormalizer, XGBoosterClarrifier
+MaxAbsScaler, LightGBM
+MaxAbsScaler, LightGBM
+RobustScaler,RandomForest
+StandardScalerWrapper,XGBoosterClarrifier
+StandardScalerWrapper,XGBoosterClarrifier
+
+
+![image](https://github.com/user-attachments/assets/48f749bc-8ade-44a8-a0e4-b6769c2b8e6f)
 
 
 The best model
