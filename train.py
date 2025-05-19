@@ -14,7 +14,7 @@ from azureml.data.dataset_factory import TabularDatasetFactory
 def clean_data(data):
     #Cleaning data with dropna, expected value from outcome should be 1 and 0, in otherwords only numbers.
     x_df = data.dropna()
-    y_df = x_df['Outcome']
+    y_df = x_df['DEATH_EVENT']
     return x_df, y_df
 
 def main():
