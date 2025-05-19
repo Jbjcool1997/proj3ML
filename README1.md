@@ -88,13 +88,22 @@ For the Hyperparameter tuning a logisticRegression algorith was used along side 
 2. Maximum number of iterations: Which was set to either 50, 100, or 500, with the default being 100.
 
 Both parameters supporting the classification task for the logistic regression, utilizing them to make predictions.
+As well as having the main benefit of handling hyperparameters without overwhelming/overclocking the compute ressoruces.
 
 
-![image](https://github.com/user-attachments/assets/6d7d6938-1106-4998-a831-10a9e04119d5)
+The RandomParameterSampling method was selected for parameter sampling. This approach is beneficial because it produces results that closely reflect what might be expected if the entire population were tested.
+
+Additionally, the Banditpolicy was implemented with the goal of saving compute ressources etc. as it manages resources very efficiently by terminating jobs that do not perform well compared to the best job, using a defined slack factor.
+
+
+![image](https://github.com/user-attachments/assets/6c5f224f-7f98-4cc1-8894-422833a44e81)
+
 
 
 ### Results
 *TODO*: What are the results you got with your model? What were the parameters of the model? How could you have improved it?
+
+The model achieved an accuracy of 0.88 using the HyperDrive run
 
 *TODO* Remeber to provide screenshots of the `RunDetails` widget as well as a screenshot of the best model trained with it's parameters.
 
