@@ -100,11 +100,13 @@ Esemble details
 
 
 
-Registrating the best model:
+Registrating the best model
+
 ![image](https://github.com/user-attachments/assets/6fe4ed25-d6d9-4c4e-9816-135a2de2abe6)
 
 
-Environment details:
+Environment details
+
 ![image](https://github.com/user-attachments/assets/6e3cdfef-cee9-4ba2-9afe-76cad267bbdc)
 
 
