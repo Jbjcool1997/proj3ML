@@ -110,15 +110,11 @@ Environment details
 ![image](https://github.com/user-attachments/assets/6e3cdfef-cee9-4ba2-9afe-76cad267bbdc)
 
 
-### Results
-*TODO*: What are the results you got with your automated ML model? What were the parameters of the model? How could you have improved it?
+Rundetails
 
-*TODO* Remeber to provide screenshots of the `RunDetails` widget as well as a screenshot of the best model trained with it's parameters.
-
-Rundetails:
 ![image](https://github.com/user-attachments/assets/2a82be82-ab2c-4d78-bf13-26a8b3581d7c)
 
-Overview of the different models:
+Overview of the different models
 
 ![image](https://github.com/user-attachments/assets/5dabb05b-b8e0-4941-8d89-59969678ec9a)
 
