@@ -35,7 +35,6 @@ Point 13, DEATH_EVENT will the column to analyzed.
 The data has manually downloaded from "https://www.kaggle.com/datasets/andrewmvd/heart-failure-clinical-data" and uploaded to AzureML datasets, as well as Github.
 
 ## Automated ML
-*TODO*: Give an overview of the `automl` settings and configuration you used for this experiment
 
 Primary_metric = Classification
 Since the DEATH_EVENT is a yes/no (1/0), classification should be suffeicient as the primary_metric
@@ -182,5 +181,3 @@ Registrating the best model:
 
 https://www.youtube.com/watch?v=QwSc4_eGmzI&ab_channel=JacobJensen
 
-## Standout Suggestions
-*TODO (Optional):* This is where you can provide information about any standout suggestions that you have attempted.
