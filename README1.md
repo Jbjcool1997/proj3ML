@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/486965b1-df34-44ae-9e2d-1ef2609908a4)*NOTE:* This file is a template that you can use to create the README for your project. The *TODO* comments below will highlight the information you should be sure to include.
+*NOTE:* This file is a template that you can use to create the README for your project. The *TODO* comments below will highlight the information you should be sure to include.
 
 # AzureML predicting pattern related to death by heart failure 
 
@@ -52,7 +52,7 @@ Overview of the different models:
 
 The best model:
 ![image](https://github.com/user-attachments/assets/d93e1c7f-8f2c-42b0-b131-b1c24d2cbdf6)
-
+![image](https://github.com/user-attachments/assets/486965b1-df34-44ae-9e2d-1ef2609908a4)
 
 
 ## Hyperparameter Tuning
