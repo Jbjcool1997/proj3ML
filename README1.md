@@ -82,16 +82,14 @@ The best model:
 Pipeline endpoint:
 ![image](https://github.com/user-attachments/assets/e029f1bb-97fe-4bc5-94ea-c7bc129a94b1)
 
+![image](https://github.com/user-attachments/assets/c9be172f-d8f2-4aab-aca1-e77fafc074ca)
 
 
 
 ## Screen Recording
-*TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
-- A working model
-- Demo of the deployed  model
+*TODO* Provide a link to a screen recording of the project in action.
 
-
-- Demo of a sample request sent to the endpoint and its response
+https://www.youtube.com/watch?v=QwSc4_eGmzI&ab_channel=JacobJensen
 
 ## Standout Suggestions
 *TODO (Optional):* This is where you can provide information about any standout suggestions that you have attempted.
