@@ -85,9 +85,6 @@ However, it will come with the cost of more ressouces, in terms of time and mone
 
 ![image](https://github.com/user-attachments/assets/372c2844-fb20-4a12-b71c-9747ba63de04)
 
-Best
-![image](https://github.com/user-attachments/assets/131714df-5782-43cd-aeda-a0b6acd0463e)
-
 
 Metric
 ![image](https://github.com/user-attachments/assets/089205c6-bbdb-49f0-b8fc-496b6508908d)
