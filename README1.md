@@ -103,7 +103,8 @@ Additionally, the Banditpolicy was implemented with the goal of saving compute r
 ### Results
 *TODO*: What are the results you got with your model? What were the parameters of the model? How could you have improved it?
 
-The model achieved an accuracy of 0.88 using the HyperDrive run
+The model achieved an accuracy of 0.88 using the HyperDrive run. 
+To enhance the performance, more parameters could be added to the tuning process. Trying a different parameter sampling method might also yield better results. Additionally, adjusting the early termination policy could help ensure that promising runs are not stopped too soon. Simple just giving it more time to run could help identify better model, however it comes with the expense of ressources.
 
 *TODO* Remeber to provide screenshots of the `RunDetails` widget as well as a screenshot of the best model trained with it's parameters.
 
@@ -129,6 +130,7 @@ Pipeline endpoint:
 
 ![image](https://github.com/user-attachments/assets/c9be172f-d8f2-4aab-aca1-e77fafc074ca)
 
+![image](https://github.com/user-attachments/assets/2b6265a9-4154-4b10-adf7-6bf2b156072f)
 
 
 ## Screen Recording
