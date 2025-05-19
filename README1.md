@@ -80,13 +80,15 @@ However, it will come with the cost of more ressouces, in terms of time and mone
 
 
 ### The best model
+
 ![image](https://github.com/user-attachments/assets/00010243-2908-4a20-847e-4af0dc782ce4)
 ![image](https://github.com/user-attachments/assets/a5c77c1f-a895-4d50-832c-51ca9eed77a5)
-
 ![image](https://github.com/user-attachments/assets/372c2844-fb20-4a12-b71c-9747ba63de04)
 
 
 Metric
+
+
 ![image](https://github.com/user-attachments/assets/089205c6-bbdb-49f0-b8fc-496b6508908d)
 
 
@@ -95,6 +97,7 @@ Metric
 
 
 Esemble details
+
 
 ![image](https://github.com/user-attachments/assets/d31e9ac8-0bd1-4555-804d-9d434dc09125)
 
@@ -117,7 +120,6 @@ Rundetails
 
 
 ## Hyperparameter Tuning
-*TODO*: What kind of model did you choose for this experiment and why? Give an overview of the types of parameters and their ranges used for the hyperparameter search
 
 For the Hyperparameter tuning a logisticRegression algorith was used along side 2 defined paramters.
 
