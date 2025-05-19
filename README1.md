@@ -101,12 +101,6 @@ Esemble details
 ![image](https://github.com/user-attachments/assets/d31e9ac8-0bd1-4555-804d-9d434dc09125)
 
 
-
-Registrating the best model
-
-![image](https://github.com/user-attachments/assets/6fe4ed25-d6d9-4c4e-9816-135a2de2abe6)
-
-
 Environment details
 
 ![image](https://github.com/user-attachments/assets/6e3cdfef-cee9-4ba2-9afe-76cad267bbdc)
@@ -181,3 +175,14 @@ Registrating the best model:
 
 https://www.youtube.com/watch?v=QwSc4_eGmzI&ab_channel=JacobJensen
 
+
+Appendix
+
+Registrating the AutoML manually
+
+![image](https://github.com/user-attachments/assets/6fe4ed25-d6d9-4c4e-9816-135a2de2abe6)
+
+Registrating the HD model manually:
+![image](https://github.com/user-attachments/assets/f4c4e0a6-d3ea-473d-a618-8724777ebfc5)
+
+![image](https://github.com/user-attachments/assets/d51df0b7-e91a-49a9-9849-ba928a6e0e58)
