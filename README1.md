@@ -94,12 +94,15 @@ Metric
 ![image](https://github.com/user-attachments/assets/f84f58ff-bb96-4697-a502-6e577d3ce9a9)
 
 
-Esemble details:
+Esemble details
+
 ![image](https://github.com/user-attachments/assets/d31e9ac8-0bd1-4555-804d-9d434dc09125)
+
 
 
 Registrating the best model:
 ![image](https://github.com/user-attachments/assets/6fe4ed25-d6d9-4c4e-9816-135a2de2abe6)
+
 
 Environment details:
 ![image](https://github.com/user-attachments/assets/6e3cdfef-cee9-4ba2-9afe-76cad267bbdc)
