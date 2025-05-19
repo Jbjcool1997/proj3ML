@@ -1,4 +1,4 @@
-*NOTE:* This file is a template that you can use to create the README for your project. The *TODO* comments below will highlight the information you should be sure to include.
+![image](https://github.com/user-attachments/assets/486965b1-df34-44ae-9e2d-1ef2609908a4)*NOTE:* This file is a template that you can use to create the README for your project. The *TODO* comments below will highlight the information you should be sure to include.
 
 # AzureML predicting pattern related to death by heart failure 
 
@@ -51,6 +51,18 @@ The data has manually downloaded from "https://www.kaggle.com/datasets/andrewmvd
 *TODO*: What are the results you got with your model? What were the parameters of the model? How could you have improved it?
 
 *TODO* Remeber to provide screenshots of the `RunDetails` widget as well as a screenshot of the best model trained with it's parameters.
+
+Rundetails
+![image](https://github.com/user-attachments/assets/87a20e8e-e867-4384-affa-bfe62fc4ab6b)
+
+Overview of the different models:
+![image](https://github.com/user-attachments/assets/ddc1e9dd-e7ec-4874-9310-00be4903536a)
+
+The best model:
+![image](https://github.com/user-attachments/assets/00e4c405-82c3-406d-84f1-0563395ecb39)
+
+![image](https://github.com/user-attachments/assets/f7cebfde-83ce-4963-a9b9-903d29436d43)
+
 
 ## Model Deployment
 *TODO*: Give an overview of the deployed model and instructions on how to query the endpoint with a sample input.
