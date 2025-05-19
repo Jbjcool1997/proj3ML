@@ -143,7 +143,7 @@ Additionally, the Banditpolicy was implemented with the goal of saving compute r
 ### Results
 
 The model achieved an accuracy of 0.88 using the HyperDrive run. 
-To enhance the performance, more parameters could be added to the tuning process. Trying a different parameter sampling method might also yield better results. Additionally, adjusting the early termination policy could help ensure that promising runs are not stopped too soon. Simple just giving it more time to run could help identify better model, however it comes with the expense of ressources.
+To enhance the performance, more parameters could be added to the tuning process. Trying a different parameter sampling method might also give a better results. Additionally, adjusting the early termination policy could help ensure that promising runs are not stopped too soon. Simple just giving it more time to run could help identify better model, however it comes with the expense of ressources.
 
 Rundetails
 ![image](https://github.com/user-attachments/assets/87a20e8e-e867-4384-affa-bfe62fc4ab6b)
@@ -162,7 +162,8 @@ Metric:
 
 
 ## Model Deployment
-*TODO*: Give an overview of the deployed model and instructions on how to query the endpoint with a sample input.
+
+The best AutoML was deloyed (VotingEnsemble) - The model was succesfully deployed and the endpoint being active.
 
 Pipeline endpoint:
 ![image](https://github.com/user-attachments/assets/e029f1bb-97fe-4bc5-94ea-c7bc129a94b1)
@@ -178,7 +179,6 @@ Registrating the best model:
 
 
 ## Screen Recording
-*TODO* Provide a link to a screen recording of the project in action.
 
 https://www.youtube.com/watch?v=QwSc4_eGmzI&ab_channel=JacobJensen
 
