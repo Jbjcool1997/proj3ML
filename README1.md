@@ -50,10 +50,19 @@ Enable_early_stopping = True
 Early stopping initiated with the goal of saving time.
 
 featurization = 'auto'
-Simple the default setting making sure data huardrails and featurazation steps are performed automatically. 
+Simple the default setting making sure data huardrails and featurazation steps are performed automatically.
+
+![image](https://github.com/user-attachments/assets/37f348de-d15c-449b-9a53-e6a75c43c825)
 
 
+The best model
+![image](https://github.com/user-attachments/assets/00010243-2908-4a20-847e-4af0dc782ce4)
+![image](https://github.com/user-attachments/assets/a5c77c1f-a895-4d50-832c-51ca9eed77a5)
 
+![image](https://github.com/user-attachments/assets/372c2844-fb20-4a12-b71c-9747ba63de04)
+
+Metric
+![image](https://github.com/user-attachments/assets/089205c6-bbdb-49f0-b8fc-496b6508908d)
 
 
 
@@ -117,6 +126,8 @@ The best model:
 
 ![image](https://github.com/user-attachments/assets/00e4c405-82c3-406d-84f1-0563395ecb39)
 
+Metric:
+![image](https://github.com/user-attachments/assets/2df2797a-f6a9-4683-9453-7789ebeb491a)
 
 
 ## Model Deployment
