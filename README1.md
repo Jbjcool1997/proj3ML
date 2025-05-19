@@ -1,10 +1,17 @@
-*NOTE:* This file is a template that you can use to create the README for your project. The *TODO* comments below will highlight the information you should be sure to include.
-
 # AzureML predicting pattern related to death by heart failure 
 
 Heart disease is the leading cause of death around the world, responsible for about 17.9 million deaths each year, or roughly 31% of all global deaths.
 Heart failure, often resulting from heart disease, is a key focus of this dataset, which includes 12 features to help predict the risk of death from heart failure.
 Many heart-related conditions can be avoided by reducing risk factors like smoking, poor diet, lack of exercise, obesity, and alcohol abuse through broad public health efforts.
+
+
+## Project Set Up and Installation
+
+## Dataset
+
+The data is publicaly availabe at "https://www.kaggle.com/datasets/andrewmvd/heart-failure-clinical-data" and have not been updated since 2020.
+
+### Task
 
 In the provided data 13 datapoints (columns) which can help identify pattern related to heart failure.
 
@@ -23,20 +30,36 @@ In the provided data 13 datapoints (columns) which can help identify pattern rel
 
 Point 13, DEATH_EVENT will the column to analyzed. 
 
-## Project Set Up and Installation
-
-## Dataset
-
-The data has manually downloaded from "https://www.kaggle.com/datasets/andrewmvd/heart-failure-clinical-data" and uploaded to AzureML datasets.
-
-### Task
-*TODO*: Explain the task you are going to be solving with this dataset and the features you will be using for it.
-
 ### Access
-*TODO*: Explain how you are accessing the data in your workspace.
+
+The data has manually downloaded from "https://www.kaggle.com/datasets/andrewmvd/heart-failure-clinical-data" and uploaded to AzureML datasets, as well as Github.
 
 ## Automated ML
 *TODO*: Give an overview of the `automl` settings and configuration you used for this experiment
+
+Primary_metric = Classification
+Since the DEATH_EVENT is a yes/no (1/0), classification should be suffeicient as the primary_metric
+
+Timeout_minutes = 20
+To save on compute resources and adhere to the workspace timelimit, 20 minutes was set a the timeout.
+
+Max_current_iteration = 5
+Given the small data size, 5 iteration should be enough.
+
+Enable_early_stopping = True
+Early stopping initiated with the goal of saving time.
+
+featurization = 'auto'
+Simple the default setting making sure data huardrails and featurazation steps are performed automatically. 
+
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/f84f58ff-bb96-4697-a502-6e577d3ce9a9)
+
+
 
 ### Results
 *TODO*: What are the results you got with your automated ML model? What were the parameters of the model? How could you have improved it?
@@ -57,6 +80,17 @@ The best model:
 
 ## Hyperparameter Tuning
 *TODO*: What kind of model did you choose for this experiment and why? Give an overview of the types of parameters and their ranges used for the hyperparameter search
+
+For the Hyperparameter tuning a logisticRegression algorith was used along side 2 defined paramters.
+
+1. Inverse regularization strength: Which was set to either 0.1, 0.5, 1, or 5, with 1 being the default setting.
+
+2. Maximum number of iterations: Which was set to either 50, 100, or 500, with the default being 100.
+
+Both parameters supporting the classification task for the logistic regression, utilizing them to make predictions.
+
+
+![image](https://github.com/user-attachments/assets/6d7d6938-1106-4998-a831-10a9e04119d5)
 
 
 ### Results
