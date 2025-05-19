@@ -114,11 +114,11 @@ Overview of the different models:
 ![image](https://github.com/user-attachments/assets/ddc1e9dd-e7ec-4874-9310-00be4903536a)
 
 The best model:
-![image](https://github.com/user-attachments/assets/486965b1-df34-44ae-9e2d-1ef2609908a4)
+
+![image](https://github.com/user-attachments/assets/f7cebfde-83ce-4963-a9b9-903d29436d43)
 
 ![image](https://github.com/user-attachments/assets/00e4c405-82c3-406d-84f1-0563395ecb39)
 
-![image](https://github.com/user-attachments/assets/f7cebfde-83ce-4963-a9b9-903d29436d43)
 
 
 ## Model Deployment
