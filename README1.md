@@ -61,13 +61,25 @@ The best model
 
 ![image](https://github.com/user-attachments/assets/372c2844-fb20-4a12-b71c-9747ba63de04)
 
+Best
+![image](https://github.com/user-attachments/assets/131714df-5782-43cd-aeda-a0b6acd0463e)
+
+
 Metric
 ![image](https://github.com/user-attachments/assets/089205c6-bbdb-49f0-b8fc-496b6508908d)
 
 
 
 ![image](https://github.com/user-attachments/assets/f84f58ff-bb96-4697-a502-6e577d3ce9a9)
+Esemble details:
+![image](https://github.com/user-attachments/assets/d31e9ac8-0bd1-4555-804d-9d434dc09125)
 
+
+Registrating the best model:
+![image](https://github.com/user-attachments/assets/6fe4ed25-d6d9-4c4e-9816-135a2de2abe6)
+
+Environment details:
+![image](https://github.com/user-attachments/assets/6e3cdfef-cee9-4ba2-9afe-76cad267bbdc)
 
 
 ### Results
@@ -139,6 +151,11 @@ Pipeline endpoint:
 ![image](https://github.com/user-attachments/assets/c9be172f-d8f2-4aab-aca1-e77fafc074ca)
 
 ![image](https://github.com/user-attachments/assets/2b6265a9-4154-4b10-adf7-6bf2b156072f)
+
+Registrating the best model:
+![image](https://github.com/user-attachments/assets/f4c4e0a6-d3ea-473d-a618-8724777ebfc5)
+
+![image](https://github.com/user-attachments/assets/d51df0b7-e91a-49a9-9849-ba928a6e0e58)
 
 
 ## Screen Recording
