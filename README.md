@@ -135,19 +135,21 @@ Additionally, the Banditpolicy was implemented with the goal of saving compute r
 The model achieved an accuracy of 0.92 using the HyperDrive run. 
 To enhance the performance, more parameters could be added to the tuning process. Trying a different parameter sampling method might also give a better results. Additionally, adjusting the early termination policy could help ensure that promising runs are not stopped too soon. Simple just giving it more time to run could help identify better model, however it comes with the expense of ressources.
 
-Rundetails
+### Run details
 ![image](https://github.com/user-attachments/assets/87a20e8e-e867-4384-affa-bfe62fc4ab6b)
 
-Overview of the different models:
+### Overview of the different models:
+
 ![image](https://github.com/user-attachments/assets/ddc1e9dd-e7ec-4874-9310-00be4903536a)
 
-The best model:
+### The best model:
 
 ![image](https://github.com/user-attachments/assets/f7cebfde-83ce-4963-a9b9-903d29436d43)
 
 ![image](https://github.com/user-attachments/assets/00e4c405-82c3-406d-84f1-0563395ecb39)
 
-Metric:
+### Metric:
+
 ![image](https://github.com/user-attachments/assets/2df2797a-f6a9-4683-9453-7789ebeb491a)
 
 
@@ -155,14 +157,14 @@ Metric:
 
 The best AutoML was deloyed (VotingEnsemble) - The model was succesfully deployed and the endpoint being active.
 
-Pipeline endpoint:
+### Pipeline endpoint:
 ![image](https://github.com/user-attachments/assets/e029f1bb-97fe-4bc5-94ea-c7bc129a94b1)
 
 ![image](https://github.com/user-attachments/assets/c9be172f-d8f2-4aab-aca1-e77fafc074ca)
 
 ![image](https://github.com/user-attachments/assets/2b6265a9-4154-4b10-adf7-6bf2b156072f)
 
-Registrating the best model:
+### Registrating the best model:
 ![image](https://github.com/user-attachments/assets/f4c4e0a6-d3ea-473d-a618-8724777ebfc5)
 
 ![image](https://github.com/user-attachments/assets/d51df0b7-e91a-49a9-9849-ba928a6e0e58)
