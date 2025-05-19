@@ -132,7 +132,7 @@ Additionally, the Banditpolicy was implemented with the goal of saving compute r
 
 ### Results
 
-The model achieved an accuracy of 0.88 using the HyperDrive run. 
+The model achieved an accuracy of 0.92 using the HyperDrive run. 
 To enhance the performance, more parameters could be added to the tuning process. Trying a different parameter sampling method might also give a better results. Additionally, adjusting the early termination policy could help ensure that promising runs are not stopped too soon. Simple just giving it more time to run could help identify better model, however it comes with the expense of ressources.
 
 Rundetails
