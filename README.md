@@ -164,10 +164,6 @@ The best AutoML was deloyed (VotingEnsemble) - The model was succesfully deploye
 
 ![image](https://github.com/user-attachments/assets/2b6265a9-4154-4b10-adf7-6bf2b156072f)
 
-### Registrating the best model:
-![image](https://github.com/user-attachments/assets/f4c4e0a6-d3ea-473d-a618-8724777ebfc5)
-
-![image](https://github.com/user-attachments/assets/d51df0b7-e91a-49a9-9849-ba928a6e0e58)
 
 
 ## Screen Recording
