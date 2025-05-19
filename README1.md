@@ -43,6 +43,18 @@ The data has manually downloaded from "https://www.kaggle.com/datasets/andrewmvd
 
 *TODO* Remeber to provide screenshots of the `RunDetails` widget as well as a screenshot of the best model trained with it's parameters.
 
+Rundetails:
+![image](https://github.com/user-attachments/assets/2a82be82-ab2c-4d78-bf13-26a8b3581d7c)
+
+Overview of the different models:
+
+![image](https://github.com/user-attachments/assets/5dabb05b-b8e0-4941-8d89-59969678ec9a)
+
+The best model:
+![image](https://github.com/user-attachments/assets/d93e1c7f-8f2c-42b0-b131-b1c24d2cbdf6)
+
+
+
 ## Hyperparameter Tuning
 *TODO*: What kind of model did you choose for this experiment and why? Give an overview of the types of parameters and their ranges used for the hyperparameter search
 
