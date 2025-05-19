@@ -85,25 +85,25 @@ However, it will come with the cost of more ressouces, in terms of time and mone
 ![image](https://github.com/user-attachments/assets/372c2844-fb20-4a12-b71c-9747ba63de04)
 
 
-Metric
+### Metric
 
 
 ![image](https://github.com/user-attachments/assets/089205c6-bbdb-49f0-b8fc-496b6508908d)
 
 
 
-Esemble details
+### Ensemble details
 
 
 ![image](https://github.com/user-attachments/assets/d31e9ac8-0bd1-4555-804d-9d434dc09125)
 
 
-Environment details
+### Environment details
 
 ![image](https://github.com/user-attachments/assets/6e3cdfef-cee9-4ba2-9afe-76cad267bbdc)
 
 
-Rundetails
+### Run details
 
 ![image](https://github.com/user-attachments/assets/2a82be82-ab2c-4d78-bf13-26a8b3581d7c)
 
