@@ -60,17 +60,26 @@ The outcome of the AutoML approach resulted in the best model being VotingEnsemb
 The result was achived by comgining 6 ensemble details, all with the same weight at 0.1666:
 
 SparseNormalizer, XGBoosterClarrifier
+
 MaxAbsScaler, LightGBM
+
 MaxAbsScaler, LightGBM
+
 RobustScaler,RandomForest
-StandardScalerWrapper,XGBoosterClarrifier
+
 StandardScalerWrapper,XGBoosterClarrifier
 
+StandardScalerWrapper,XGBoosterClarrifier
 
 ![image](https://github.com/user-attachments/assets/48f749bc-8ade-44a8-a0e4-b6769c2b8e6f)
 
 
-The best model
+In terms of optimization, an obvious first step is to incease the timeout or change the early termination policy.
+As shown on the image below displaying the best model, is stopped due to the early termination policy.
+However, it will come with the cost of more ressouces, in terms of time and money.
+
+
+### The best model
 ![image](https://github.com/user-attachments/assets/00010243-2908-4a20-847e-4af0dc782ce4)
 ![image](https://github.com/user-attachments/assets/a5c77c1f-a895-4d50-832c-51ca9eed77a5)
 
@@ -109,7 +118,7 @@ Overview of the different models:
 
 ![image](https://github.com/user-attachments/assets/5dabb05b-b8e0-4941-8d89-59969678ec9a)
 
-The best model:
+### The best model:
 ![image](https://github.com/user-attachments/assets/d93e1c7f-8f2c-42b0-b131-b1c24d2cbdf6)
 
 
