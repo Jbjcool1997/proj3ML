@@ -184,4 +184,4 @@ Some improvements for future consideration
 
 Training optimization: Due to the time limit  of the workspace and limited attempts, several timeouts was added to the experiment - Without timeout AutoMl could have developed more models and potentailly have created a even better performance model.
 
-Improved data: The dataset currently withstands of 13 columns and 300 rows, thereby giving the Azure limited data to analyze on, so the data could be improved by either adding more. Additionally, if a SME believe the 13 columns are missing a vital data point, more column could also be relevant. 
+Improved data: The dataset currently withstands of 13 columns and 300 rows, thereby giving the Azure limited data to analyze on, so the data could be improved by either adding more. Additionally, if a SME believe the 13 columns are missing a vital data point, more column could also be relevant. Furthermore, the data is from 2020, 5 years old, new relevant data etc. could have been discovered. 
