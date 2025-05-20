@@ -159,6 +159,7 @@ To enhance the performance, more parameters could be added to the tuning process
 ### Registrating the best model
 
 ![image](https://github.com/user-attachments/assets/164dac38-9964-4f01-98d0-8ca90dfcc33a)
+![image](https://github.com/user-attachments/assets/79489ad4-f12c-44e8-ad77-5fc121e10572)
 
 
 ## Model Deployment
