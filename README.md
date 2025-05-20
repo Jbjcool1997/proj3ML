@@ -110,7 +110,7 @@ However, it will come with the cost of more ressouces, in terms of time and mone
 
 ### Registrating the best model
 
-##TODO
+![image](https://github.com/user-attachments/assets/64ca96fc-c6d8-403b-9365-7c6f2d7a8968)
 
 
 ## Hyperparameter Tuning
