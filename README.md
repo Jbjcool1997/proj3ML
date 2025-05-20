@@ -170,4 +170,10 @@ The best AutoML was deloyed (VotingEnsemble) - The model was succesfully deploye
 
 https://www.youtube.com/watch?v=QwSc4_eGmzI&ab_channel=JacobJensen
 
+## Future Work
 
+Some improvements for future consideration
+
+Training optimization: Due to the time limit  of the workspace and limited attempts, several timeouts was added to the experiment - Without timeout AutoMl could have developed more models and potentailly have created a even better performance model.
+
+Improved data: The dataset currently withstands of 13 columns and 300 rows, thereby giving the Azure limited data to analyze on, so the data could be improved by either adding more. Additionally, if a SME believe the 13 columns are missing a vital data point, more column could also be relevant. 
