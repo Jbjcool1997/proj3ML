@@ -1,11 +1,26 @@
 # AzureML predicting pattern related to death by heart failure 
 
-Heart disease is the leading cause of death around the world, responsible for about 17.9 million deaths each year, or roughly 31% of all global deaths.
-Heart failure, often resulting from heart disease, is a key focus of this dataset, which includes 12 features to help predict the risk of death from heart failure.
-Many heart-related conditions can be avoided by reducing risk factors like smoking, poor diet, lack of exercise, obesity, and alcohol abuse through broad public health efforts.
+## Project Overview
+
+In this project, we will an public data source related to health care sector, the data is avaliable to download in CSV.
+The CSV file will be uploaded to Azure ML Workspace's datasets, and afterwards there are 2 models that needs to be trained.
+
+- HyperDriver
+- Automated ML
+
+Afterwards it will be possible to compare the two models and their performance.
+From there the AutoML will be deployed and tested.
+
+
+![image](https://github.com/user-attachments/assets/5c1414c2-a92b-4261-a940-52080e180d82)
+
 
 
 ## Project Set Up and Installation
+
+Heart disease is the leading cause of death around the world, responsible for about 17.9 million deaths each year, or roughly 31% of all global deaths.
+Heart failure, often resulting from heart disease, is a key focus of this dataset, which includes 12 features to help predict the risk of death from heart failure.
+Many heart-related conditions can be avoided by reducing risk factors like smoking, poor diet, lack of exercise, obesity, and alcohol abuse through broad public health efforts.
 
 ## Dataset
 
