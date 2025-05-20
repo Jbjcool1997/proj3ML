@@ -110,7 +110,8 @@ However, it will come with the cost of more ressouces, in terms of time and mone
 
 ### Registrating the best model
 
-![image](https://github.com/user-attachments/assets/a13a2b10-cc01-43a3-ba48-c7935c134145)
+
+![image](https://github.com/user-attachments/assets/eddf1382-8b77-4bc2-b60a-58585a4b9216)
 
 
 
