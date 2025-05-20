@@ -108,6 +108,10 @@ However, it will come with the cost of more ressouces, in terms of time and mone
 ![image](https://github.com/user-attachments/assets/2a82be82-ab2c-4d78-bf13-26a8b3581d7c)
 
 
+### Registrating the best model
+
+##TODO
+
 
 ## Hyperparameter Tuning
 
@@ -151,6 +155,10 @@ To enhance the performance, more parameters could be added to the tuning process
 ### Metric:
 
 ![image](https://github.com/user-attachments/assets/2df2797a-f6a9-4683-9453-7789ebeb491a)
+
+### Registrating the best model
+
+![image](https://github.com/user-attachments/assets/164dac38-9964-4f01-98d0-8ca90dfcc33a)
 
 
 ## Model Deployment
