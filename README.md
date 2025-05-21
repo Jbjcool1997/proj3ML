@@ -183,7 +183,12 @@ To enhance the performance, more parameters could be added to the tuning process
 
 ## Model Deployment
 
-The best AutoML was deloyed (VotingEnsemble) - The model was succesfully deployed and the endpoint being active.
+### Comparing the models
+
+In this run HD preformed better than AutoML according to accuracy. Additionally HD took less time than AutoML.
+However, the best AutoML will be deloyed (VotingEnsemble)
+
+The model was succesfully deployed and the endpoint being active.
 
 ### Notebook deployment
 ![image](https://github.com/user-attachments/assets/fa0d9b21-e4f5-4bb5-ac24-29758e18a75d)
