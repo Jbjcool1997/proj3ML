@@ -34,10 +34,11 @@ In the provided data 13 datapoints (columns) which can help identify pattern rel
 2. Anaemia - Decrease of red blood cells or hemoglobin
 3. creatinine_phosphokinase - Level of the CPK enzyme in the blood
 4. diabetes - If the patient has diabetes or not.
-6. ejection_fraction - Percentage of blood leaving the heart at each contraction (percentage
-7. high_blood_pressure - If the patient has hypertension (boolean)
-8. platelets - Platelets in the blood
-9. serum_sodium - Level of serum sodium in the blood
+5. ejection_fraction - Percentage of blood leaving the heart at each contraction (percentage
+6. high_blood_pressure - If the patient has hypertension (boolean)
+7. platelets - Platelets in the blood
+8. serum_sodium - Level of serum sodium in the blood
+9. serum_creatine - Level of serum creatine in the blood
 10. sex - the gender of the patient
 11. smoking - If the patient was smoking or not
 12. time - follow-up period in days
