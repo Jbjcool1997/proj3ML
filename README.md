@@ -217,7 +217,8 @@ The model was succesfully deployed and the endpoint being active.
 
 ## Screen Recording
 
-https://www.youtube.com/watch?v=QwSc4_eGmzI&ab_channel=JacobJensen
+https://www.youtube.com/watch?v=r2tLVtcg9h4
+
 
 ## Future Work
 
