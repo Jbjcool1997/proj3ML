@@ -52,7 +52,7 @@ The data has manually downloaded from "https://www.kaggle.com/datasets/andrewmvd
 ## Automated ML
 
 Primary_metric = Classification
-Since the DEATH_EVENT is a yes/no (1/0), classification should be suffeicient as the primary_metric
+Since the DEATH_EVENT is a True/False (1/0), classification should be suffeicient as the primary_metric
 
 Timeout_minutes = 20
 To save on compute resources and adhere to the workspace timelimit, 20 minutes was set a the timeout.
