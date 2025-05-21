@@ -176,6 +176,7 @@ To enhance the performance, more parameters could be added to the tuning process
 ### Registrating the best model
 
 ![image](https://github.com/user-attachments/assets/164dac38-9964-4f01-98d0-8ca90dfcc33a)
+
 ![image](https://github.com/user-attachments/assets/79489ad4-f12c-44e8-ad77-5fc121e10572)
 
 
@@ -183,9 +184,8 @@ To enhance the performance, more parameters could be added to the tuning process
 
 The best AutoML was deloyed (VotingEnsemble) - The model was succesfully deployed and the endpoint being active.
 
-Notebook deployment
+### Notebook deployment
 ![image](https://github.com/user-attachments/assets/fa0d9b21-e4f5-4bb5-ac24-29758e18a75d)
-
 
 
 ### Notebook interacting with the deployed endpoint:
@@ -205,6 +205,8 @@ Notebook deployment
 
 ![image](https://github.com/user-attachments/assets/fd79a0a4-cb45-4e2e-b691-1280678c7f9f)
 
+### verifying the output 
+![image](https://github.com/user-attachments/assets/ce1ade02-7934-47d8-bb84-0fc51e2523f4)
 
 
 ## Screen Recording
