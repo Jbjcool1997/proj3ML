@@ -183,12 +183,27 @@ To enhance the performance, more parameters could be added to the tuning process
 
 The best AutoML was deloyed (VotingEnsemble) - The model was succesfully deployed and the endpoint being active.
 
-### Pipeline endpoint:
-![image](https://github.com/user-attachments/assets/e029f1bb-97fe-4bc5-94ea-c7bc129a94b1)
+Notebook deployment
+![image](https://github.com/user-attachments/assets/fa0d9b21-e4f5-4bb5-ac24-29758e18a75d)
 
-![image](https://github.com/user-attachments/assets/c9be172f-d8f2-4aab-aca1-e77fafc074ca)
 
-![image](https://github.com/user-attachments/assets/2b6265a9-4154-4b10-adf7-6bf2b156072f)
+
+### Notebook interacting with the deployed endpoint:
+![image](https://github.com/user-attachments/assets/ca3a1605-94d2-49ac-ac07-5954bc002bab)
+
+### GUI of endpoint:
+![image](https://github.com/user-attachments/assets/3e870537-34eb-45f2-acd0-dd42539b1e18)
+
+### Deployment state in the notebook
+![image](https://github.com/user-attachments/assets/10c9100b-8c8c-4ad3-b4da-d2bd5ea8defe)
+
+
+### Deployment state in GUI
+![image](https://github.com/user-attachments/assets/c806f0ae-caa6-43b1-b587-f89196139f34)
+
+### Sample input to the endpoint
+
+![image](https://github.com/user-attachments/assets/fd79a0a4-cb45-4e2e-b691-1280678c7f9f)
 
 
 
@@ -203,3 +218,5 @@ Some improvements for future consideration
 Training optimization: Due to the time limit  of the workspace and limited attempts, several timeouts was added to the experiment - Without timeout AutoMl could have developed more models and potentailly have created a even better performance model.
 
 Improved data: The dataset currently withstands of 13 columns and 300 rows, thereby giving the Azure limited data to analyze on, so the data could be improved by either adding more. Additionally, if a SME believe the 13 columns are missing a vital data point, more column could also be relevant. Furthermore, the data is from 2020, 5 years old, new relevant data etc. could have been discovered. 
+
+Having the right permission in AzureML - As the provided AzureML workspace did not have the right permission, I have to manually add "Azure Container Instance Contributor" to the my own workspace - The process would be more efficient to have the correct permissions from the start and saving time researching.
